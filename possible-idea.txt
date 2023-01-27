@@ -1,0 +1,7 @@
+housing vs crime
+	as housing goes down, does crime go up?
+Crime per month
+	holidays affect crime
+Council district
+	Multiple zipcodes in council districts
+	Could analize various aspects for each district
