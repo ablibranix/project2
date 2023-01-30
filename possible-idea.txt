@@ -5,3 +5,11 @@ Crime per month
 Council district
 	Multiple zipcodes in council districts
 	Could analize various aspects for each district
+Highest offense vs Highest NIBRS offense
+Crime among those with above or below 67,000 (average median income for 2015 Austin)
+Something with rental units vs owner units (information per zip code)
+Zip codes with most amount of defenses
+	Anything related to those zip codes
+Is multiple locations for miltiple persons? Are they duplicates
+Clear status rates
+	Zip code or type of offense have different clearance status rates
