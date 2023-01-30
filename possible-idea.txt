@@ -1,4 +1,4 @@
-housing vs crime
+Housing vs Crime
 	as housing goes down, does crime go up?
 Crime per month
 	holidays affect crime
@@ -8,8 +8,16 @@ Council district
 Highest offense vs Highest NIBRS offense
 Crime among those with above or below 67,000 (average median income for 2015 Austin)
 Something with rental units vs owner units (information per zip code)
-Zip codes with most amount of defenses
+Zip codes with most amount of offenses
 	Anything related to those zip codes
 Is multiple locations for miltiple persons? Are they duplicates
 Clear status rates
 	Zip code or type of offense have different clearance status rates
+
+ANALYSES REQUIRED ->
+
+(Abbey)Pearson correlations: Housing vs Crime; 
+(Abbey)Scatterplots: Housing vs Crime; 
+(Levi)Averages: Crime per month; 
+(Levi)Standard deviations: Crime per month; 
+T-test or Mann-Whitney-U test: Crime above/below 67,000; 
