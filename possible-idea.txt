@@ -18,6 +18,8 @@ ANALYSES REQUIRED ->
 
 (Abbey)Pearson correlations: Housing vs Crime; 
 (Abbey)Scatterplots: Housing vs Crime; 
+
 (Levi)Averages: Crime per month; 
 (Levi)Standard deviations: Crime per month; 
+
 T-test or Mann-Whitney-U test: Crime above/below 67,000; 
